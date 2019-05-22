@@ -1,8 +1,8 @@
 # windows-stay-awake
-c# script to make windows stay awake, without going to sleep or getting locked.  
+collection of scripts to make windows stay awake, without going to sleep or getting locked.  
   
   
 **Todo**  
-- [x] Tested on windows 7  
-- [ ] Test on windows 10  
+- [x] Test on windows 7  - c#, vbs
+- [x] Test on windows 10  - vbs
 - [ ] Add timer to stop if required
